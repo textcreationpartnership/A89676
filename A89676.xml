@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conference betwixt the Kings most excellent Majesty, and Mr. Peters, the minister, at Newmarket. Wherein is declard the desires of the said Mr. Peters, to the Kings Majesty, and His Majesties reply. Likewise the further proceedings of the army. And a declaration of the Lord Mayor of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89676</idno>
+            <idno type="STC">Wing N1103</idno>
+            <idno type="STC">Thomason E393_18</idno>
+            <idno type="STC">ESTC R201600</idno>
+            <idno type="EEBO-CITATION">99862100</idno>
+            <idno type="PROQUEST">99862100</idno>
+            <idno type="VID">160307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160307)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conference betwixt the Kings most excellent Majesty, and Mr. Peters, the minister, at Newmarket. Wherein is declard the desires of the said Mr. Peters, to the Kings Majesty, and His Majesties reply. Likewise the further proceedings of the army. And a declaration of the Lord Mayor of London.</title>
+                  <author>Nichols, T., fl. 1647.</author>
+                  <author>City of London (England). Lord Mayor.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuue [sic] 22. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of a letter dated and signed: Redburn June 21. 1647. T. Nichols; and a "Declaration set forth by the Right Honourable the Lord Mayor of London ..".</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peters, Hugh, 1598-1660 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I) --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160307:1" rendition="simple:additions"/>
+            <p>A CONFERENCE BETWIXT The Kings moſt Excellent Majeſty, and Mr. <hi>Peters,</hi> the Miniſter, at <hi>Newmarket.</hi>
+            </p>
+            <p>Wherein is declared the Deſires of the ſaid Mr. <hi>Peters,</hi> to the Kings Majeſty, and His Majeſties Reply.</p>
+            <p>Likewiſe the further proceedings of the Army. And a Declaration of the Lord Mayor of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed by <hi>B. A. Iune</hi> 22. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160307:2"/>
+            <pb facs="tcp:160307:2"/>
+            <head>NEVVES FROM THE ARMIE</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt unto you, dated the 18. of this inſtant moneth, We have received further Orders from the General, for remo<g ref="char:EOLhyphen"/>vall of our quarters towards the Weſterne Road, which was accordingly done, ſeve<g ref="char:EOLhyphen"/>rall Regiments being now quartered about
+<pb facs="tcp:160307:3"/>
+               <hi>Reading, Windſor,</hi> and the reſt of the adjacent townes. Our trayn of Artillery is come from <hi>Oxford</hi> to the Generals head-quarters, and divers ſouldiers deſigned for <hi>Ireland</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re a<g ref="char:EOLhyphen"/>gain joyned with us. Some rumors in the army of high particulars, but I will wave them, and rather clip the wings of ſuch ſug<g ref="char:EOLhyphen"/>geſtions, then to have them diſpierced for advancing of diſcord But <hi>I</hi> truſt to the great <hi>Jehovah</hi> of <hi>Heaven,</hi> that if a further breach doth ariſe betwixt the Parliament, City, and Army, that He will be pleaſed to cloſe it up againe, and firmly knit the hearts of all in thoſe ſilver thrids of amity, that ſo the glory of God may be exalted, His Royall Majeſty advanced into his throne, and peace &amp; truth eſtabliſhed within his Majeſties Realm and Dominion.</p>
+            <p>We have received advertiſement at the Head quarters, that a party of horſe are ad<g ref="char:EOLhyphen"/>vanced neerer towards your City; but (I ſay now, as I ſaid before) I hope with no evill intent; Our agitators ſits cloſe (being two out of every Regiment) and what ever they conclude upon, the army gives their whole aſſent.</p>
+            <p>
+               <pb facs="tcp:160307:3"/>We have received ſome advertiſement of a Letter ſent to the Generall, from both hou<g ref="char:EOLhyphen"/>ſes of Parliament, to require him to deliver the King, to the Commiſſioners now reſi<g ref="char:EOLhyphen"/>dent with his Majeſty, and ſo to be conduct<g ref="char:EOLhyphen"/>ed to <hi>Richmond,</hi> and to require him to with<g ref="char:EOLhyphen"/>draw his Army forty miles from <hi>London,</hi> to forbear recruiting his Army, or to poſſeſſe any new townes, Caſtles, or Fortifications; but the army hath declared their unwilling<g ref="char:EOLhyphen"/>neſſe to reſign up the King, untill ſuch time that they have received ſatisfaction and re<g ref="char:EOLhyphen"/>dreſs of their former grievances propoſed to the honourable houſes of Parliament; yet thus much I dare preſume to ſay, that his Maieſties reſidence in the protection and power of the Army, doth not a little em<g ref="char:EOLhyphen"/>bolden them in their preſent deſign, but it doth alſo promp them up to high condi<g ref="char:EOLhyphen"/>tions.</p>
+            <p>For other particulars, I ſhall refer you to the incloſed, and remain</p>
+            <closer>
+               <signed>Your affectionate friend, T. Nichols.</signed>
+               <dateline>
+                  <hi>Redburn</hi>
+                  <date>
+                     <hi>June</hi> 21. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:160307:4"/>
+            <head>Poſtſcript.</head>
+            <p>UPon the cloſe of this Letter, I received information of a Meſſenger arrived at St. <hi>Albanes,</hi> ſent by the Parliaments Com<g ref="char:EOLhyphen"/>miſſioners from <hi>Newmarket,</hi> with Propoſi<g ref="char:EOLhyphen"/>tions to the Generall. 1. To know his an<g ref="char:EOLhyphen"/>ſwer to the Votes of both Houſes, concer<g ref="char:EOLhyphen"/>ning the diſpoſall of his Maieſties Royall Perſon to <hi>Richmond.</hi> And ſecondly, that He would be pleaſed to ſend them a ſpeedy an<g ref="char:EOLhyphen"/>ſwer, for further ſatisfaction therein. The ſaid Meſſenger further intimated, that there was a late conference betwixt his Majeſty, and Mr. <hi>Peters</hi> the Miniſter; at which con<g ref="char:EOLhyphen"/>ference, his Majeſty told the ſaid Mr. <hi>Peters,</hi> that he had often heard talk of him, but did not believe he had that ſolidity in him he found by his diſcourſe, after his Majeſty had ended his diſcourſe, Mr. <hi>Peters</hi> began with theſe expreſſions. Humbly deſiring his Maie<g ref="char:EOLhyphen"/>ſty that He would be pleaſed to heare him preach; his Majeſty replyed, no, not as yet, but he would have a further Conference with him another time, and ſo Mr. <hi>Peters</hi> withdrew.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:160307:4"/>
+            <head>A Declaration ſet forth by the Right Honoura<g ref="char:EOLhyphen"/>ble the Lord Mayor of London, concerning the Trayned Bands, and Auxiliaries, belonging to the ſaid City.</head>
+            <p>Theſe are to declare and make knowne unto all, that in the beating up of the drum and ſounding of the trumpet, the intention is, for the ſuppreſſing of tumults and out<g ref="char:EOLhyphen"/>rages (ſuch as are and may be committed, for the preſervation of the peace, and for the defence of the Parliament and City. Wher<g ref="char:EOLhyphen"/>fore theſe are earneſtly to exhort &amp; require all perſons lifted for the Trayned Bands and Auxiliaries within this City and Liberties, as they tender and wiſh the good of them<g ref="char:EOLhyphen"/>ſelves, their wives, children, &amp; families, pre<g ref="char:EOLhyphen"/>ſervation of the peace and ſafety of the Par<g ref="char:EOLhyphen"/>liament and City, That immediatly uppon beat of the Drum, or ſound of the trumpet, they, and every of them, under conduct of their ſeverall and reſpective Captaines and Commanders, will with all readineſſe and alacrity repair to their Colours (as oft as
+<pb facs="tcp:160307:5"/>
+occaſion may require) for the cauſe and pur<g ref="char:EOLhyphen"/>poſe aforeſaid.</p>
+            <p>And all Conſtables and Officers within this City and Liberties are hereby ſtraight<g ref="char:EOLhyphen"/>ly charged and commanded to do and per<g ref="char:EOLhyphen"/>forme their reſpective duties with all rea<g ref="char:EOLhyphen"/>dineſſe, for conſervation of the peace, and therein to be from time to time ayding &amp; aſſiſting vnto the ſaid trayned Bands and Auxiliaries, and the Commanders of them, as they, and every of them will anſwer the contrary for their neglect and remiſneſſe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
